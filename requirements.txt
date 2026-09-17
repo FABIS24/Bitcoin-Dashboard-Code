@@ -1,0 +1,6 @@
+dash
+plotly
+pandas
+statsmodels
+scikit-learn
+scipy
