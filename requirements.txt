@@ -1,0 +1,7 @@
+dash
+plotly
+pandas
+statsmodels
+scikit-learn
+scipy
+jupyter-server-proxy
