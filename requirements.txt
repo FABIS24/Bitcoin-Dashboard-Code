@@ -1,0 +1,11 @@
+dash
+kagglehub
+matplotlib
+numpy
+plotly
+pandas
+seaborn
+statsmodels
+scikit-learn
+scipy
+jupyter-server-proxy
